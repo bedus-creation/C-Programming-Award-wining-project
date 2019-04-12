@@ -1,5 +1,6 @@
 source/bin
-souce/build
+souce/build/*
 source/dist
 source/obj
+source/source
 nbproject
