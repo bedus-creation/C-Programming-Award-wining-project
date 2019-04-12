@@ -1,0 +1,26 @@
+		final list of  Applicants
+
+s.n.rank  fristn. lastn.  gend.   dist     slc  +2 disable
+	-----------------------------------------------------
+1.   1    bedu  tamang  f       sinduli    pvt  pvt     yes
+2.  12 beduram       y  m        morang    gov  gov     yes
+3.  23     bdu  tamang  f       sinduli    pvt  pvt      no
+4. 123bedramtamang  tamang  m        morang    gov  gov      no
+5.1234 sabeena   karki  f     kathmandu    pvt  pvt      no
+
+
+		final list of girls Applicants
+
+s.n.s.n.  rank    fristn. lastn.  gend.   dist slc      +2
+	----------------------------------------------------
+1.   1    bedu  tamang  f       sinduli    pvt  pvt     yes
+3.  23     bdu  tamang  f       sinduli    pvt  pvt      no
+5.1234 sabeena   karki  f     kathmandu    pvt  pvt      no
+
+
+		final list of boys Applicants
+
+s.n.rank  fristn. lastn.  gend.   dist     slc  +2 disable
+	-------------------------------------------------------
+1.  12 beduram       y  m        morang    gov  gov     yes
+2. 123bedramtamang  tamang  m        morang    gov  gov      no

@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1439548220 source:c:\users\computer\documents\c\testing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"start.h"
+	"welcome.h"
+	"passwords.h"
+
+1439482689 c:\users\computer\documents\c\testing\global_variable.h
+
+1439529171 c:\users\computer\documents\c\testing\start.h
+	"addrecords.h"
+	"get_choice.h"
+	"delete_records.h"
+	"print_final_records.h"
+	"publish_final_list.h"
+	"security.h"
+	"change_theme.h"
+
+1439517254 c:\users\computer\documents\c\testing\addrecords.h
+	"global_variable.h"
+	"check_digit.h"
+
+1439527113 c:\users\computer\documents\c\testing\get_choice.h
+
+1439489326 c:\users\computer\documents\c\testing\check_digit.h
+	"global_variable.h"
+	"sorting.h"
+
+1439487122 c:\users\computer\documents\c\testing\sorting.h
+	"global_variable.h"
+
+1439487025 c:\users\computer\documents\c\testing\delete_records.h
+	"global_variable.h"
+	"check_digit.h"
+
+1439487320 c:\users\computer\documents\c\testing\print_final_records.h
+	"global_variable.h"
+	"check_digit.h"
+
+1439560790 c:\users\computer\documents\c\testing\publish_final_list.h
+	"global_variable.h"
+	"check_digit.h"
+
+1439489217 c:\users\computer\documents\c\testing\passwords.h
+
+1439488899 c:\users\computer\documents\c\testing\security.h
+	"passwords.h"
+
+1439515405 c:\users\computer\documents\c\testing\welcome.h
+
+1439521550 c:\users\computer\documents\c\testing\file_security.h
+	"global_variable.h"
+	"passwords.h"
+
+1439529967 c:\users\computer\documents\c\testing\change_theme.h
+	<stdlib.h>
+
