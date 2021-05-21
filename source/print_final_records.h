@@ -57,7 +57,7 @@ array[j]=temp[j];
   //to sort the structure array according to priority
 
   printf("\n\t\tpress any key........\n\n");
-  getch();
+  getchar();
   printf("\t\t final girls Applicants list basis on priority order\t\t");
   printf("\n\n");
   sn_to_show=0;
@@ -72,7 +72,7 @@ array[j]=temp[j];
    }
   }
   printf("\n\t\tpress any key.......\n");
-  getch();
+  getchar();
 
   printf("\t\t final boys Applicants list basis on priority order\t\t");
   printf("\n\n");
@@ -88,7 +88,7 @@ array[j]=temp[j];
    }
   }
   printf("\n\t\tpress any key.....\n");
-  getch();
+  getchar();
 
 }
 

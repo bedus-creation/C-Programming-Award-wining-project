@@ -4,3 +4,8 @@ source/dist
 source/obj
 source/source
 nbproject
+
+*.exe
+.inc
+.vscode
+dist/main
