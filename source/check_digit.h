@@ -1,4 +1,4 @@
-#include "global_variable.h";
+#include "global_variable.h"
 #include "sorting.h"
 #ifndef CHECK_DIGIT
 #define CHECK_DIGIT
