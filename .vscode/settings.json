@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.blade.php": "html",
+        "*.php": "php",
+        "stdio.h": "c",
+        "start.h": "c",
+        "publish_final_list.h": "c",
+        "delete_records.h": "c",
+        "get_choice.h": "c"
+    }
+}
